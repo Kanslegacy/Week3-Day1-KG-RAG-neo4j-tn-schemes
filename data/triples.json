@@ -1,0 +1,3130 @@
+[
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Grants",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Maize",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Coimbatore",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Dindigul",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Erode",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Dharmapuri",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Krishnagiri",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Namakkal",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Perambalur",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Virudhunagar",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Theni",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Villupuram",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Vellore",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Salem",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Pudukkottai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Madurai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Sivagangai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Trichy",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Tirunelveli",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Thoothukudi",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Small Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Training to Farmers",
+    "subject": "Training to Farmers",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Production of Foundation and Certified Seeds",
+    "subject": "Production of Foundation and Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Production of Foundation and Certified Seeds",
+    "subject": "Production of Foundation and Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Production of Foundation and Certified Seeds",
+    "subject": "Production of Foundation and Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Production of Foundation and Certified Seeds",
+    "subject": "Production of Foundation and Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Pulses",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject": "Distribution of Nuclear Poly Hedrosis Virus",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of Rhizobium Packets - Oilseeds",
+    "subject": "Distribution of Rhizobium Packets - Oilseeds",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Distribution of Rhizobium Packets - Oilseeds",
+    "subject": "Distribution of Rhizobium Packets - Oilseeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Distribution of Rhizobium Packets - Oilseeds",
+    "subject": "Distribution of Rhizobium Packets - Oilseeds",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Distribution of Rhizobium Packets - Oilseeds",
+    "subject": "Distribution of Rhizobium Packets - Oilseeds",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Livelihood activities for asset less persons-2012",
+    "subject": "Livelihood activities for asset less persons-2012",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Livelihood activities for asset less persons-2012",
+    "subject": "Livelihood activities for asset less persons-2012",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Livelihood activities for asset less persons-2012",
+    "subject": "Livelihood activities for asset less persons-2012",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Livelihood activities for asset less persons-2012",
+    "subject": "Livelihood activities for asset less persons-2012",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Livelihood activities for asset less persons-2012",
+    "subject": "Livelihood activities for asset less persons-2012",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+    "subject": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+    "subject": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+    "subject": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+    "subject": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+    "subject": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Production of Foundation Seeds",
+    "subject": "Production of Foundation Seeds",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Production of Foundation Seeds",
+    "subject": "Production of Foundation Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Production of Foundation Seeds",
+    "subject": "Production of Foundation Seeds",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Production of Foundation Seeds",
+    "subject": "Production of Foundation Seeds",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Production of Foundation Seeds",
+    "subject": "Production of Foundation Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Pulses",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Production of Foundation Seeds",
+    "subject": "Production of Foundation Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Production of Foundation Seeds",
+    "subject": "Production of Foundation Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of Gypsum",
+    "subject": "Distribution of Gypsum",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Distribution of Gypsum",
+    "subject": "Distribution of Gypsum",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Distribution of Gypsum",
+    "subject": "Distribution of Gypsum",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Distribution of Gypsum",
+    "subject": "Distribution of Gypsum",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Distribution of Gypsum",
+    "subject": "Distribution of Gypsum",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Pulses",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Distribution of Gypsum",
+    "subject": "Distribution of Gypsum",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of Gypsum",
+    "subject": "Distribution of Gypsum",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of manually operated Plant Protection Equipment",
+    "subject": "Distribution of manually operated Plant Protection Equipment",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Distribution of manually operated Plant Protection Equipment",
+    "subject": "Distribution of manually operated Plant Protection Equipment",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Distribution of manually operated Plant Protection Equipment",
+    "subject": "Distribution of manually operated Plant Protection Equipment",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Distribution of manually operated Plant Protection Equipment",
+    "subject": "Distribution of manually operated Plant Protection Equipment",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Distribution of manually operated Plant Protection Equipment",
+    "subject": "Distribution of manually operated Plant Protection Equipment",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Pulses",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Distribution of manually operated Plant Protection Equipment",
+    "subject": "Distribution of manually operated Plant Protection Equipment",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of manually operated Plant Protection Equipment",
+    "subject": "Distribution of manually operated Plant Protection Equipment",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Pipes carrying water from source to field - Pulses ISPOM",
+    "subject": "Pipes carrying water from source to field - Pulses ISPOM",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Pipes carrying water from source to field - Pulses ISPOM",
+    "subject": "Pipes carrying water from source to field - Pulses ISPOM",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Pipes carrying water from source to field - Pulses ISPOM",
+    "subject": "Pipes carrying water from source to field - Pulses ISPOM",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Pipes carrying water from source to field - Pulses ISPOM",
+    "subject": "Pipes carrying water from source to field - Pulses ISPOM",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+    "subject": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+    "subject": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+    "subject": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+    "subject": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+    "subject": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Distribution of Rhizobium",
+    "subject": "Distribution of Rhizobium",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Distribution of Rhizobium",
+    "subject": "Distribution of Rhizobium",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Distribution of Rhizobium",
+    "subject": "Distribution of Rhizobium",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Distribution of Rhizobium",
+    "subject": "Distribution of Rhizobium",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Distribution of Rhizobium",
+    "subject": "Distribution of Rhizobium",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Pulses",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Distribution of Rhizobium",
+    "subject": "Distribution of Rhizobium",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of Rhizobium",
+    "subject": "Distribution of Rhizobium",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of Soil  Health card",
+    "subject": "Distribution of Soil  Health card",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Distribution of Soil  Health card",
+    "subject": "Distribution of Soil  Health card",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Distribution of Soil  Health card",
+    "subject": "Distribution of Soil  Health card",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Distribution of Soil  Health card",
+    "subject": "Distribution of Soil  Health card",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+    "subject": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+    "subject": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+    "subject": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+    "subject": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+    "subject": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Training of Farmers on Pulses Production Technologies",
+    "subject": "Training of Farmers on Pulses Production Technologies",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Training of Farmers on Pulses Production Technologies",
+    "subject": "Training of Farmers on Pulses Production Technologies",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Training of Farmers on Pulses Production Technologies",
+    "subject": "Training of Farmers on Pulses Production Technologies",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Grants",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Training of Farmers on Pulses Production Technologies",
+    "subject": "Training of Farmers on Pulses Production Technologies",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Training of Farmers on Pulses Production Technologies",
+    "subject": "Training of Farmers on Pulses Production Technologies",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Pulses",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Training of Farmers on Pulses Production Technologies",
+    "subject": "Training of Farmers on Pulses Production Technologies",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Training of Farmers on Pulses Production Technologies",
+    "subject": "Training of Farmers on Pulses Production Technologies",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Subsidy on the assessed Value Added Tax (VAT)",
+    "subject": "Subsidy on the assessed Value Added Tax (VAT)",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Subsidy on the assessed Value Added Tax (VAT)",
+    "subject": "Subsidy on the assessed Value Added Tax (VAT)",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Subsidy on the assessed Value Added Tax (VAT)",
+    "subject": "Subsidy on the assessed Value Added Tax (VAT)",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Subsidy on the assessed Value Added Tax (VAT)",
+    "subject": "Subsidy on the assessed Value Added Tax (VAT)",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Subsidy on the assessed Value Added Tax (VAT)",
+    "subject": "Subsidy on the assessed Value Added Tax (VAT)",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Distribution of Certified seeds - Oil Seeds",
+    "subject": "Distribution of Certified seeds - Oil Seeds",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Distribution of Certified seeds - Oil Seeds",
+    "subject": "Distribution of Certified seeds - Oil Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Distribution of Certified seeds - Oil Seeds",
+    "subject": "Distribution of Certified seeds - Oil Seeds",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Distribution of Certified seeds - Oil Seeds",
+    "subject": "Distribution of Certified seeds - Oil Seeds",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Groundnut",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Gingelly",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Sunflower",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Oilseeds",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Quality Paddy seed Distribution",
+    "subject": "Quality Paddy seed Distribution",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Quality Paddy seed Distribution",
+    "subject": "Quality Paddy seed Distribution",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Quality Paddy seed Distribution",
+    "subject": "Quality Paddy seed Distribution",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Quality Paddy seed Distribution",
+    "subject": "Quality Paddy seed Distribution",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Quality Paddy seed Distribution",
+    "subject": "Quality Paddy seed Distribution",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Paddy",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+    "subject": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+    "subject": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+    "subject": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+    "subject": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+    "subject": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Grants",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Maize",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Coimbatore",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Dindigul",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Erode",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Dharmapuri",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Krishnagiri",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Namakkal",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Perambalur",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Virudhunagar",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Theni",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Villupuram",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Vellore",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Salem",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Pudukkottai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Madurai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Sivagangai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Trichy",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Tirunelveli",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Thoothukudi",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Small Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject": "Organizing Block  Demonstration through  Department and also  through TNAU",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women farmers/women groups",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Generator subsidy",
+    "subject": "Generator subsidy",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Generator subsidy",
+    "subject": "Generator subsidy",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Generator subsidy",
+    "subject": "Generator subsidy",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Generator subsidy",
+    "subject": "Generator subsidy",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Generator subsidy",
+    "subject": "Generator subsidy",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Production of Certified Seeds",
+    "subject": "Production of Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Production of Certified Seeds",
+    "subject": "Production of Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Production of Certified Seeds",
+    "subject": "Production of Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Production of Certified Seeds",
+    "subject": "Production of Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Production of Certified Seeds",
+    "subject": "Production of Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Pulses",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Production of Certified Seeds",
+    "subject": "Production of Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Production of Certified Seeds",
+    "subject": "Production of Certified Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+    "subject": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+    "subject": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+    "subject": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Grants",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+    "subject": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Special capital subsidy for thrust sector enterprises",
+    "subject": "Special capital subsidy for thrust sector enterprises",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Special capital subsidy for thrust sector enterprises",
+    "subject": "Special capital subsidy for thrust sector enterprises",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Special capital subsidy for thrust sector enterprises",
+    "subject": "Special capital subsidy for thrust sector enterprises",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Special capital subsidy for thrust sector enterprises",
+    "subject": "Special capital subsidy for thrust sector enterprises",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Special capital subsidy for thrust sector enterprises",
+    "subject": "Special capital subsidy for thrust sector enterprises",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Grants",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Maize",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Coimbatore",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Dindigul",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Erode",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Dharmapuri",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Krishnagiri",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Namakkal",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Perambalur",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Virudhunagar",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Theni",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Villupuram",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Vellore",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Salem",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Pudukkottai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Madurai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Sivagangai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Trichy",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Tirunelveli",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Thoothukudi",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Small Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of Minikits  at free of cost",
+    "subject": "Distribution of Minikits  at free of cost",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women farmers/women groups",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+    "subject": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+    "subject": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+    "subject": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+    "subject": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+    "subject": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Unemployed Youth Employment Generation Programme (UYEGP)",
+    "subject": "Unemployed Youth Employment Generation Programme (UYEGP)",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Unemployed Youth Employment Generation Programme (UYEGP)",
+    "subject": "Unemployed Youth Employment Generation Programme (UYEGP)",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Unemployed Youth Employment Generation Programme (UYEGP)",
+    "subject": "Unemployed Youth Employment Generation Programme (UYEGP)",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Unemployed Youth Employment Generation Programme (UYEGP)",
+    "subject": "Unemployed Youth Employment Generation Programme (UYEGP)",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Unemployed Youth Employment Generation Programme (UYEGP)",
+    "subject": "Unemployed Youth Employment Generation Programme (UYEGP)",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Paddy",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Millets",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Pulses",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Oilseeds",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Cotton",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Price Preference for Micro and Small Enterprises in Government purchases",
+    "subject": "Price Preference for Micro and Small Enterprises in Government purchases",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Price Preference for Micro and Small Enterprises in Government purchases",
+    "subject": "Price Preference for Micro and Small Enterprises in Government purchases",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Price Preference for Micro and Small Enterprises in Government purchases",
+    "subject": "Price Preference for Micro and Small Enterprises in Government purchases",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Price Preference for Micro and Small Enterprises in Government purchases",
+    "subject": "Price Preference for Micro and Small Enterprises in Government purchases",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Price Preference for Micro and Small Enterprises in Government purchases",
+    "subject": "Price Preference for Micro and Small Enterprises in Government purchases",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Farmers Training",
+    "subject": "Farmers Training",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Farmers Training",
+    "subject": "Farmers Training",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Farmers Training",
+    "subject": "Farmers Training",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Grants",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Farmers Training",
+    "subject": "Farmers Training",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "subject": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "subject": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "subject": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "subject": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "subject": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Waiver of Earnest Money Deposit for participation in Tenders",
+    "subject": "Waiver of Earnest Money Deposit for participation in Tenders",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Waiver of Earnest Money Deposit for participation in Tenders",
+    "subject": "Waiver of Earnest Money Deposit for participation in Tenders",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Waiver of Earnest Money Deposit for participation in Tenders",
+    "subject": "Waiver of Earnest Money Deposit for participation in Tenders",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Waiver of Earnest Money Deposit for participation in Tenders",
+    "subject": "Waiver of Earnest Money Deposit for participation in Tenders",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Waiver of Earnest Money Deposit for participation in Tenders",
+    "subject": "Waiver of Earnest Money Deposit for participation in Tenders",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Maize",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Coimbatore",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Dindigul",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Erode",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Dharmapuri",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Krishnagiri",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Namakkal",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Perambalur",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Virudhunagar",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Theni",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Villupuram",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Vellore",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Salem",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Pudukkottai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Madurai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Sivagangai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Trichy",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Tirunelveli",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Thoothukudi",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Small Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Distribution of Certified  Seeds of maize",
+    "subject": "Distribution of Certified  Seeds of maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Subsidy on the cost of Patent Registration in India or abroad",
+    "subject": "Subsidy on the cost of Patent Registration in India or abroad",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Subsidy on the cost of Patent Registration in India or abroad",
+    "subject": "Subsidy on the cost of Patent Registration in India or abroad",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Subsidy on the cost of Patent Registration in India or abroad",
+    "subject": "Subsidy on the cost of Patent Registration in India or abroad",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Subsidy on the cost of Patent Registration in India or abroad",
+    "subject": "Subsidy on the cost of Patent Registration in India or abroad",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Subsidy on the cost of Patent Registration in India or abroad",
+    "subject": "Subsidy on the cost of Patent Registration in India or abroad",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Organizing Block Demonstration",
+    "subject": "Organizing Block Demonstration",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Organizing Block Demonstration",
+    "subject": "Organizing Block Demonstration",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Organizing Block Demonstration",
+    "subject": "Organizing Block Demonstration",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Organizing Block Demonstration",
+    "subject": "Organizing Block Demonstration",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Organizing Block Demonstration",
+    "subject": "Organizing Block Demonstration",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Pulses",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Organizing Block Demonstration",
+    "subject": "Organizing Block Demonstration",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Organizing Block Demonstration",
+    "subject": "Organizing Block Demonstration",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+    "subject": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+    "subject": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+    "subject": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+    "subject": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+    "subject": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+    "subject": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+    "subject": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+    "subject": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+    "subject": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+    "subject": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+    "subject": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+    "subject": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+    "subject": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+    "subject": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+    "subject": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Low Tension power tariff subsidy",
+    "subject": "Low Tension power tariff subsidy",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Low Tension power tariff subsidy",
+    "subject": "Low Tension power tariff subsidy",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Low Tension power tariff subsidy",
+    "subject": "Low Tension power tariff subsidy",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Low Tension power tariff subsidy",
+    "subject": "Low Tension power tariff subsidy",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Low Tension power tariff subsidy",
+    "subject": "Low Tension power tariff subsidy",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+    "subject": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+    "subject": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+    "subject": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+    "subject": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+    "subject": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Farmers Interest Group  (FIG)",
+    "subject": "Farmers Interest Group  (FIG)",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Farmers Interest Group  (FIG)",
+    "subject": "Farmers Interest Group  (FIG)",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Farmers Interest Group  (FIG)",
+    "subject": "Farmers Interest Group  (FIG)",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Grants",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Farmers Interest Group  (FIG)",
+    "subject": "Farmers Interest Group  (FIG)",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Pipes carrying water  from source to field",
+    "subject": "Pipes carrying water  from source to field",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Pipes carrying water  from source to field",
+    "subject": "Pipes carrying water  from source to field",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Pipes carrying water  from source to field",
+    "subject": "Pipes carrying water  from source to field",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Pipes carrying water  from source to field",
+    "subject": "Pipes carrying water  from source to field",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Pipes carrying water  from source to field",
+    "subject": "Pipes carrying water  from source to field",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Pipes carrying water  from source to field",
+    "subject": "Pipes carrying water  from source to field",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Term loan obtained for Technology upgradation / modernisation schemes",
+    "subject": "Term loan obtained for Technology upgradation / modernisation schemes",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Term loan obtained for Technology upgradation / modernisation schemes",
+    "subject": "Term loan obtained for Technology upgradation / modernisation schemes",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Term loan obtained for Technology upgradation / modernisation schemes",
+    "subject": "Term loan obtained for Technology upgradation / modernisation schemes",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Term loan obtained for Technology upgradation / modernisation schemes",
+    "subject": "Term loan obtained for Technology upgradation / modernisation schemes",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Term loan obtained for Technology upgradation / modernisation schemes",
+    "subject": "Term loan obtained for Technology upgradation / modernisation schemes",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "subject": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "subject": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "subject": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "subject": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "subject": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+    "subject": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+    "subject": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+    "subject": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+    "subject": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+    "subject": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Micro Nutrient spray",
+    "subject": "Micro Nutrient spray",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Micro Nutrient spray",
+    "subject": "Micro Nutrient spray",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Micro Nutrient spray",
+    "subject": "Micro Nutrient spray",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Micro Nutrient spray",
+    "subject": "Micro Nutrient spray",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+    "subject": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+    "subject": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+    "subject": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+    "subject": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+    "subject": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Grants",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+    "subject": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+    "subject": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+    "subject": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+    "subject": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+    "subject": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Integrated Pest  Management Demonstration  cum Training",
+    "subject": "Integrated Pest  Management Demonstration  cum Training",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Integrated Pest  Management Demonstration  cum Training",
+    "subject": "Integrated Pest  Management Demonstration  cum Training",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Integrated Pest  Management Demonstration  cum Training",
+    "subject": "Integrated Pest  Management Demonstration  cum Training",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Grants",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Integrated Pest  Management Demonstration  cum Training",
+    "subject": "Integrated Pest  Management Demonstration  cum Training",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Stamp duty exemption on mortgaged and pledged documents",
+    "subject": "Stamp duty exemption on mortgaged and pledged documents",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Stamp duty exemption on mortgaged and pledged documents",
+    "subject": "Stamp duty exemption on mortgaged and pledged documents",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Manufacturers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Stamp duty exemption on mortgaged and pledged documents",
+    "subject": "Stamp duty exemption on mortgaged and pledged documents",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Incentives",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Stamp duty exemption on mortgaged and pledged documents",
+    "subject": "Stamp duty exemption on mortgaged and pledged documents",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Stamp duty exemption on mortgaged and pledged documents",
+    "subject": "Stamp duty exemption on mortgaged and pledged documents",
+    "subject_type": "Scheme",
+    "relation": "HAS_SCHEME_TYPE",
+    "object": "Download",
+    "object_type": "SchemeType"
+  },
+  {
+    "scheme": "Distribution of Gypsum - Oil Seeds",
+    "subject": "Distribution of Gypsum - Oil Seeds",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Distribution of Gypsum - Oil Seeds",
+    "subject": "Distribution of Gypsum - Oil Seeds",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Distribution of Gypsum - Oil Seeds",
+    "subject": "Distribution of Gypsum - Oil Seeds",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Distribution of Gypsum - Oil Seeds",
+    "subject": "Distribution of Gypsum - Oil Seeds",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "SPONSORED_BY",
+    "object": "State",
+    "object_type": "Sponsor"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_BENEFICIARY",
+    "object": "Farmers",
+    "object_type": "Beneficiary"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "HAS_BENEFIT_TYPE",
+    "object": "Subsidy",
+    "object_type": "BenefitType"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "BELONGS_TO_DEPARTMENT",
+    "object": "Agriculture - Farmers Welfare Department",
+    "object_type": "Department"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_CROP",
+    "object": "Maize",
+    "object_type": "Crop"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Coimbatore",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Dindigul",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Erode",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Dharmapuri",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Krishnagiri",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Namakkal",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Perambalur",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Virudhunagar",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Theni",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Villupuram",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Vellore",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Salem",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Pudukkottai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Madurai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Sivagangai",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Trichy",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Tirunelveli",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_DISTRICT",
+    "object": "Thoothukudi",
+    "object_type": "District"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Small Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "SC/ST Farmers",
+    "object_type": "SubGroup"
+  },
+  {
+    "scheme": "Production of Certified  Seeds of Maize",
+    "subject": "Production of Certified  Seeds of Maize",
+    "subject_type": "Scheme",
+    "relation": "TARGETS_SUBGROUP",
+    "object": "Women Farmers",
+    "object_type": "SubGroup"
+  }
+]
