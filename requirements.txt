@@ -4,3 +4,4 @@ langchain-core
 neo4j
 python-dotenv
 streamlit
+networkx
